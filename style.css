@@ -1,0 +1,8 @@
+@font-face {
+    font-family: ibm;
+    src: url(./IBMPlexSansThai-Medium.ttf);
+}
+
+body{
+    font-family: ibm;
+}
